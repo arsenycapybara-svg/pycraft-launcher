@@ -28,4 +28,4 @@ out.mkdir(exist_ok=True)
 img.save(str(out / "icon.png"))
 if not img.save(str(out / "icon.ico"), "ICO"):
     sys.exit("Не удалось сохранить icon.ico")
-print("Готово:", out)
+print("OK:", out)
