@@ -25,6 +25,7 @@
 * **Зависимости:** `pypresence`, `requests`
 
 ---
+download for google disk https://drive.google.com/file/d/1VMUT_zotFgbl1W5gVEG5JTLJYpMfqQaY/view?usp=sharing
 
 ### 💻 Сборка и запуск из исходников
 
